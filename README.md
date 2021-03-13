@@ -4,7 +4,9 @@ https://en.wikipedia.org/wiki/Knapsack_problem
 Próbujemy rozwiązać problem wyboru przedmiotów, tak by ich sumaryczna wartość była jak największa i jednocześnie mieściły się w plecaku.
 
 Dane wejściowe przedmiotów [items] pobierane z pliku, np.
+
 [weight][value]:
+
 2,500
 
 7,160
