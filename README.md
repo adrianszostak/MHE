@@ -6,5 +6,10 @@ Mając do dyspozycji plecak (W) o określonej maksymalnej ładowności, chcemy g
 
 
 
-Dane wejściowe, czyli wartość przedmiotu (val), waga przedmiotu (wt) i maksymalna pojemność plecaka (W) pobierane są od użytkownika z konsoli.
+Dane wejściowe (pobierane od użytkownika z konsoli:
+- wartość przedmiotu (val),
+- waga przedmiotu (wt)
+- maksymalna pojemność plecaka (W)
 
+Dane wyjsciowe:
+- łączna wartość przedmiotów w plecaku
